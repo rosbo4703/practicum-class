@@ -8,7 +8,7 @@ Welcome to our class project showcase! Below are links to the repositories and l
 | :--- | :--- | :--- | :--- |
 | Riley Fowler| Study Timer | [GitHub Repo](https://github.com/RileyF14/Riley) | [Live Site](https://github.com/RileyF14/Study-timer) |
 | Lucy Hurst | UTAU-Romaji-to-Kana-Renamer| [GitHub Repo](https://github.com/vioducki/UTAU-Romaji-to-Kana-Renamer) | [Live Site](https://github.com/vioducki/UTAU-Romaji-to-Kana-Renamer/releases/tag/release) |
-| Jenil Patel | Portfolio Site | [GitHub Repo](https://github.com/dvilrgamerz) | [Live Site](https://vault-budget-ai.netlify.app) |
+| Jenil Patel | VaultBudget | [GitHub Repo](https://github.com/dvilrgamerz) | [Live Site](https://vault-budget-ai.netlify.app) |
 | Noah Kovanis | Python Project | [GitHub Repo](https://github.com/NoahKovanis) | [Live Site](https://johnsmith.github.io/weather-app) |
 | Halle Van Valkenburgh |  Python Project | [GitHub Repo](https://github.com/asm0deuses) | [Live Site](https://github.com/asm0deuses/Talking-to-Yessed-Man) |
 | Beau Mantor | Python Weather App | [GitHub Repo](https://github.com/johnsmith/weather-app) | [Live Site](https://johnsmith.github.io/weather-app) |
