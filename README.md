@@ -13,5 +13,5 @@ Welcome to our class project showcase! Below are links to the repositories and l
 | Halle Van Valkenburgh |  Python Project | [GitHub Repo](https://github.com/asm0deuses) | [Live Site](https://github.com/asm0deuses/Talking-to-Yessed-Man) |
 | Beau Mantor | Project | [GitHub Repo](https://github.com/johnsmith/weather-app) | [Live Site](https://johnsmith.github.io/weather-app) |
 | Juan Martinez |   Project | [GitHub Repo](https://github.com/JuanMartinez1818) | [Live Site](https://github.com/JuanMartinez1818) |
-| Santiago |  Project | [GitHub Repo]() | [Live Site]() |
+| Santiago Hernandez Nivar |  Project | [GitHub Repo]() | [Live Site]() |
 
