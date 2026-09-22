@@ -1,2 +1,2 @@
 # practicum-class
-practicum class student project links and 
+Practicum class project info. Links to their repo accounts.
