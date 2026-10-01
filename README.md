@@ -11,7 +11,7 @@ Welcome to our class project showcase! Below are links to the repositories and l
 | Jenil Patel | VaultBudget | [GitHub Repo](https://github.com/dvilrgamerz) | [Live Site](https://vault-budget-ai.netlify.app) |
 | Noah Kovanis | Project | [GitHub Repo](https://github.com/NoahKovanis) | [Live Site](https://noahkovanis.github.io/yes-no-maybe-so/) |
 | Halle Van Valkenburgh |  Project | [GitHub Repo](https://github.com/asm0deuses) | [Live Site](https://escapemaker.io/EscapeMaker/#portal/game_13425681cbea4f8dfa63e423) |
-| Beau Mantor | Project | [GitHub Repo](https://github.com/johnsmith/weather-app) | [Live Site](https://johnsmith.github.io/weather-app) |
+| Beau Mantor | Project | [GitHub Repo](https://github.com/mudvine) | [Live Site](https://github.com/mudvine/CODING-PROJECT-1) |
 | Juan Martinez |   Project | [GitHub Repo](https://github.com/JuanMartinez1818) | [Live Site](https://github.com/JuanMartinez1818/calculator) |
 | Santiago Hernandez Nivar |  Project | [GitHub Repo]() | [Live Site]() |
 
