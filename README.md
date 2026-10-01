@@ -12,6 +12,6 @@ Welcome to our class project showcase! Below are links to the repositories and l
 | Noah Kovanis | Project | [GitHub Repo](https://github.com/NoahKovanis) | [Live Site](https://johnsmith.github.io/weather-app) |
 | Halle Van Valkenburgh |  Project | [GitHub Repo](https://github.com/asm0deuses) | [Live Site](https://escapemaker.io/EscapeMaker/#portal/game_13425681cbea4f8dfa63e423) |
 | Beau Mantor | Project | [GitHub Repo](https://github.com/johnsmith/weather-app) | [Live Site](https://johnsmith.github.io/weather-app) |
-| Juan Martinez |   Project | [GitHub Repo](https://github.com/JuanMartinez1818) | [Live Site](https://github.com/JuanMartinez1818) |
+| Juan Martinez |   Project | [GitHub Repo](https://github.com/JuanMartinez1818) | [Live Site](https://github.com/JuanMartinez1818/calculator) |
 | Santiago Hernandez Nivar |  Project | [GitHub Repo]() | [Live Site]() |
 
